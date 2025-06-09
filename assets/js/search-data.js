@@ -48,9 +48,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "projects-chaos-and-decision-making",
+          title: 'Chaos and decision-making',
+          description: "Why beauty is in simplicity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{

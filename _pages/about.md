@@ -36,6 +36,6 @@ My main interest is in data analysis for markets. Not just purely financial, eve
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/ex_1.jpg" title="Game theory beauty" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/ex_1.gif" title="Game theory beauty" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

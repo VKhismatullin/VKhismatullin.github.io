@@ -2,9 +2,9 @@
 layout: page
 title: Chaos and decision-making
 description: Why beauty is in simplicity
-img: assets/img/12.jpg
+img: assets/img/publication_preview/ex_1.jpg
 importance: 1
-category: work
+category: in proceedings
 related_publications: true
 ---
 

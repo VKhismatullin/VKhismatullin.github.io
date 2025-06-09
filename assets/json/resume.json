@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vladimir Khismatullin",
-    "label": "Scientist",
+    "occupation": "Scientist",
     "image": "sq.jpg",
     "email": "vladimir~khismatullin~@~gmail~.~com",
     "phone": "(919) 282-4097",
@@ -25,16 +25,16 @@
     {
       "name": "Duke University, Fuqua School of Business",
       "position": "Research Assistant for Prof. Tong Guo",
-      "url": "https://example.com",
+      "url": "https://www.fuqua.duke.edu/",
       "startDate": "2024-02-01",
       "endDate": "2025-05-01",
       "summary": "Some descr",
-      "highlights": ["LLM", "Text Data Mining", "Causality"]
+      "highlights": ["LLM Pipelines, Text Data Mining", "Causality and Signal Mining"]
     },
     {
       "name": "Lomonosov Moscow State University",
       "position": "Research Assistant",
-      "url": "https://example.com",
+      "url": "https://cs.msu.ru/en",
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "summary": "Some descr",
@@ -112,9 +112,9 @@
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Bayesian Game Theory"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2024-12-01",
+      "endDate": "2025-02-01",
+      "url": "https://vkhismatullin.github.io/projects/naive_poker_game/"
     }
   ],
   "interests": [

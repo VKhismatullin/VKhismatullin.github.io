@@ -7,7 +7,7 @@ subtitle: Quantitative Researcher
 
 profile:
   align: right
-  image: sq.jpg
+  image: publication_preview/sq.jpg
   image_circular: false # crops the image to make it circular
   # more_info: 
 

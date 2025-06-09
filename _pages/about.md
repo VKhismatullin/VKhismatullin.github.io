@@ -26,7 +26,7 @@ I am doing research on option pricing in a practically-relevant way.
 I used to do a lot of math and was a big math analysis guy, but now it's more of a hobby of mine. From time to time I will publish some articles from why the Normal distribution is a sphere, why that might be important, to  some mispricings in commodities markets that some people may appreciate.
 
 
-I am also very much interested in strategic games, both from the point of developing educated bets on players and deriving optimal strategies. [Link to poker files] 
+I am also very much interested in strategic games, both from the point of developing educated bets on players and deriving optimal strategies. Solving Poker: [part 1](https://vkhismatullin.github.io/projects/naive_poker_game/).
 
 More than that, I have spent 3 years on time series analysis, Bayesian deep learning. I have spent a lot of time on [Link to generation files]
 

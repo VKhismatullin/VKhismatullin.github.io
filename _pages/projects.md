@@ -5,7 +5,7 @@ permalink: /projects/
 description: Finilized results for some of  my research ideas. Important to note that these are mostly non-academic projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [in proceedings]
 horizontal: false
 ---
 

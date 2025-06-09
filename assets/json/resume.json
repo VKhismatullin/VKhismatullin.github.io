@@ -23,22 +23,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Duke University, Fuqua School of Business",
+      "position": "Research Assistant for Prof. Tong Guo",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-02-01",
+      "endDate": "2025-05-01",
+      "summary": "Some descr",
+      "highlights": ["LLM", "Text Data Mining", "Causality"]
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Lomonosov Moscow State University",
+      "position": "Research Assistant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-01",
+      "summary": "Some descr",
+      "highlights": ["Time Series Augmentation, Generation", "Change point detection"]
     }
   ],
   "education": [
@@ -67,46 +67,18 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "CME Futures Trading",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "CME Trading",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Options Trading",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Akuna capital",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [

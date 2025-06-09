@@ -52,7 +52,7 @@ ninja.data = [{
           title: 'Chaos and decision-making',
           description: "Why beauty is in simplicity",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/naive_poker_game/";
             },},{
         id: 'social-email',
         title: 'email',

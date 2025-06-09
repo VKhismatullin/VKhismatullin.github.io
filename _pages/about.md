@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Quantitative Researcher 
+    Master’s at Duke, Bachelor’s at MSU.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sq.jpg
   image_circular: false # crops the image to make it circular
   # more_info: 
 
@@ -19,8 +20,15 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-My name is Vladimir.
-I am quite proficient in ...
+Hello, my name is Vladimir.
+I am doing research on option pricing in a practically-relevant way.
+
+I used to do a lot of math and was a big math analysis guy, but now it's more of a hobby of mine. From time to time I will publish some articles from why the Normal distribution is a sphere, why that might be important, to  some mispricings in commodities markets that some people may appreciate.
 
 
-You can find my full story in ...
+I am also very much interested in strategic games, both from the point of developing educated bets on players and deriving optimal strategies. [Link to poker files] 
+
+More than that, I have spent 3 years on time series analysis, Bayesian deep learning. I have spent a lot of time on [Link to generation files]
+
+My main interest is in data analysis for markets. Not just purely financial, everything that involves pricing.
+

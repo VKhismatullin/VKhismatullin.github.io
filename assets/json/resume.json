@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Vladimir Khismatullin",
-    "occupation": "Scientist",
+    "occupation": "Researcher",
     "image": "sq.jpg",
     "email": "vladimir~khismatullin~@~gmail~.~com",
     "phone": "(919) 282-4097",
     "url": "https://vkhismatullin.github.io/al-folio/",
-    "summary": "A Russian-born applied mathematician, mostly interested in financial markets and theoretical dynamic problems",
+    "summary": "Applied researcher, mostly interested in financial markets and theoretical dynamic problems",
     "location": {
       "postalCode": "NC 27701",
       "city": "Durham",
@@ -29,7 +29,10 @@
       "startDate": "2024-02-01",
       "endDate": "2025-05-01",
       "summary": "Some descr",
-      "highlights": ["LLM Pipelines, Text Data Mining", "Causality and Signal Mining"]
+      "highlights": ["LLM Pipelines, Text Data Mining",
+                     "Data Stacping, Data Pipelines",              
+                     "Causality and Signal Mining"
+      ]
     },
     {
       "name": "Lomonosov Moscow State University",
@@ -51,7 +54,9 @@
       "startDate": "2023-08-11",
       "endDate": "2025-05-11",
       "score": "10",
-      "courses": ["Econometrics, Finance, GPU Architecture"]
+      "courses": ["GPU Architecture, Database Systems", 
+                  "Econometrics, Theoretical Finance",
+                  "Game Theory, Imperical Markets"]
     },
     {
       "institution": "Lomonosov Moscow State University, Moscow, Russia",
@@ -62,23 +67,9 @@
       "startDate": "2019-09-01",
       "endDate": "2023-07-01",
       "score": "10",
-      "courses": ["Optimal Control Theory"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "CME Futures Trading",
-      "date": "2018-01-01",
-      "issuer": "CME Trading",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Options Trading",
-      "date": "2018-01-01",
-      "issuer": "Akuna capital",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "courses": ["Bayessian Deep Learning",
+                  "Advanced Topics in Time Series",
+                  "Optimal Control Theory"]
     }
   ],
   "skills": [
@@ -96,12 +87,12 @@
       ]
     },
     {
-      "name": "Quantitative Finance",
+      "name": "Quantitative Research",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Option Pricing Theory",
-        "Option Stoch Arbitrage",
+        "Option Stochastic Arbitrage",
         "Optimal Pipeline Construction",
         "Insider Trading Regulations"
       ]
@@ -109,17 +100,41 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Bayesian Game Theory"],
+      "name": "Wine Auctions",
+      "summary": "Beat the analysts accuracy by 65% using a simple linear regression and a lot of feature mining, including visuals, text and transcation history from several retail platforms.",
+      "highlights": ["Data Scraping", ""],
+      "startDate": "2024-12-01",
+      "endDate": "2025-02-01",
+      "url": "https://github.com/VKhismatullin/WineStats"
+    },
+    {
+      "name": "Biased Beliefs in Poker",
+      "summary": "Solved a novel simplification of Texas Hold'em that allows for interpretable qualities, like risk-averseness and ",
+      "highlights": ["Bayesian Game Theory", "GPU Optimization"],
       "startDate": "2024-12-01",
       "endDate": "2025-02-01",
       "url": "https://vkhismatullin.github.io/projects/naive_poker_game/"
+    },
+    {
+      "name": "Pricing Poker Tournaments",
+      "summary": "Implemented a ranking model to find profitable tournaments conditional on one's skill level.",
+      "highlights": ["Data Scraping", "Skill Ranking Models", "Profitability Analysis"],
+      "startDate": "2024-12-01",
+      "endDate": "2025-02-01",
+      "url": "https://github.com/VKhismatullin/PokerStats"
+    },
+    {
+      "name": "Options Trading",
+      "summary": "For obvious reasons, I do not post potential strategies, but you can find some generally useful results in my repository.",
+      "highlights": ["Stochastic Calculus", "Quantitative Fincane"],
+      "startDate": "2024-12-01",
+      "endDate": "2025-02-01",
+      "url": "https://github.com/VKhismatullin/Option-Price-Is-All-You-Need"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Volatility Trading",
@@ -128,6 +143,14 @@
         "Commodities Pricing",
         "Causation in Decision-making",
         "Chaos Theory"
+      ]
+    },{
+      "name": "Recreational",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Skiing",
+        "Petty Betting",
+        "Psychology og Gambling"
       ]
     }
   ],

@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Quantitative Researcher 
-    Master’s at Duke, Bachelor’s at MSU.
+subtitle: Quantitative Researcher
 
 profile:
   align: right

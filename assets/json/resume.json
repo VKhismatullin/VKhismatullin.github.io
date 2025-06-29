@@ -100,12 +100,12 @@
   ],
   "projects": [
     {
-      "name": "Wine Auctions",
-      "summary": "Beat the analysts accuracy by 65% using a simple linear regression and a lot of feature mining, including visuals, text and transcation history from several retail platforms.",
-      "highlights": ["Data Scraping", ""],
-      "startDate": "2024-12-01",
-      "endDate": "2025-02-01",
-      "url": "https://github.com/VKhismatullin/WineStats"
+      "name": "Options Trading",
+      "summary": "For obvious reasons, I do not post potential strategies, but you can find some generally useful results in my repository.",
+      "highlights": ["Stochastic Calculus", "Quantitative Fincane"],
+      "startDate": "2024-07-01",
+      "endDate": "2025-06-01",
+      "url": "https://github.com/VKhismatullin/Option-Price-Is-All-You-Need"
     },
     {
       "name": "Biased Beliefs in Poker",
@@ -119,18 +119,18 @@
       "name": "Pricing Poker Tournaments",
       "summary": "Implemented a ranking model to find profitable tournaments conditional on one's skill level.",
       "highlights": ["Data Scraping", "Skill Ranking Models", "Profitability Analysis"],
-      "startDate": "2024-12-01",
-      "endDate": "2025-02-01",
+      "startDate": "2024-11-01",
+      "endDate": "2025-01-01",
       "url": "https://github.com/VKhismatullin/PokerStats"
     },
     {
-      "name": "Options Trading",
-      "summary": "For obvious reasons, I do not post potential strategies, but you can find some generally useful results in my repository.",
-      "highlights": ["Stochastic Calculus", "Quantitative Fincane"],
-      "startDate": "2024-12-01",
-      "endDate": "2025-02-01",
-      "url": "https://github.com/VKhismatullin/Option-Price-Is-All-You-Need"
-    }
+      "name": "Wine Auctions",
+      "summary": "Beat the analysts accuracy by 65% using a simple linear regression and a lot of feature mining, including visuals, text and transcation history from several retail platforms.",
+      "highlights": ["Data Scraping", "Commodity Pricing"],
+      "startDate": "2024-04-01",
+      "endDate": "2024-06-01",
+      "url": "https://github.com/VKhismatullin/WineStats"
+    },
   ],
   "interests": [
     {
@@ -152,18 +152,6 @@
         "Petty Betting",
         "Psychology og Gambling"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Russian",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ]
 }

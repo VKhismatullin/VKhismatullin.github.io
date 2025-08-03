@@ -8,10 +8,10 @@
     "url": "https://vkhismatullin.github.io/al-folio/",
     "summary": "Applied researcher, mostly interested in financial markets and theoretical dynamic problems",
     "location": {
-      "postalCode": "NC 27701",
-      "city": "Durham",
+      "postalCode": "IL 60601",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": "North Carolina"
+      "region": "Illinois"
     },
     "profiles": [
       {
@@ -130,7 +130,7 @@
       "startDate": "2024-04-01",
       "endDate": "2024-06-01",
       "url": "https://github.com/VKhismatullin/WineStats"
-    },
+    }
   ],
   "interests": [
     {

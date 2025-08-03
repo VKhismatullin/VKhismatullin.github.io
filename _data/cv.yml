@@ -3,17 +3,17 @@
   contents:
     - name: Full Name
       value: Vladimir Khismatullin
-    - name: Date of Birth
-      value: 24th September 2001
-    - name: Languages
-      value: English, Russian
+    - name: Summary
+      value: Applied researcher, mostly interested in financial markets and theoretical dynamic problems
+    - name: email
+      value: vladimir~khismatullin~@~gmail~.~com
 
 - title: Education
   type: time_table
   contents:
     - title: MS Economics and CS, 3.9/4.0 GPA
       institution: Duke University, Durham, NC
-      year: 2023- 2025
+      year: 2023 - 2025
       description:
         - GPU Architecture, Database Systems
         - Econometrics, Theoretical Finance

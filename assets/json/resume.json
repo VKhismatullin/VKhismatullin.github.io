@@ -101,7 +101,7 @@
   "projects": [
     {
       "name": "Options Trading",
-      "summary": "For obvious reasons, I do not post potential strategies, but you can find some generally useful results in my repository.",
+      "summary": "Some generally useful results and potential strategies in my repository. I maximize returns per unit risk for some known trading schemes.",
       "highlights": ["Stochastic Calculus", "Quantitative Fincane"],
       "startDate": "2024-07-01",
       "endDate": "2025-06-01",
@@ -109,7 +109,7 @@
     },
     {
       "name": "Biased Beliefs in Poker",
-      "summary": "Solved a novel simplification of Texas Hold'em that allows for interpretable qualities, like risk-averseness and ",
+      "summary": "Solved a novel simplification of Texas Hold'em that allows for interpretable qualities, like risk-averseness and predictability.",
       "highlights": ["Bayesian Game Theory", "GPU Optimization"],
       "startDate": "2024-12-01",
       "endDate": "2025-02-01",
@@ -141,7 +141,7 @@
         "Statistical Arbitrage",
         "Insider Trading Policy",
         "Commodities Pricing",
-        "Causation in Decision-making",
+        "Causality in Decision-making",
         "Chaos Theory"
       ]
     },{

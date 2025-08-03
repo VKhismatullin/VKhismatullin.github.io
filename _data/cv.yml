@@ -2,96 +2,73 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vladimir Khismatullin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th September 2001
     - name: Languages
-      value: English, German
+      value: English, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS Economics and CS, 3.9/4.0 GPA
+      institution: Duke University, Durham, NC
+      year: 2023- 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPU Architecture, Database Systems
+        - Econometrics, Theoretical Finance
+        - Game Theory, Imperical Markets
+    - title: BS Applied Math, 4.9/5.0 GPA
+      institution: Lomonosov Moscow State University, Moscow, Russia
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Bayessian Deep Learning
+        - Advanced Topics in Time Series Analysis
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Fuqua School of Business, Duke University, Durham, NC
+      year: Jan 2024 - May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - LLM Pipelines, Text Data Mining
+        - Data Stacping, Data Pipelines            
+        - Causality and Signal Mining
+    - title: Research Assistant
+      institution: Lomonosov Moscow State University, Moscow, Russia
+      year: Sep 2021 - Jun 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Time Series Augmentation, Generation
+        - Change point detection
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/VKhismatullin/Option-Price-Is-All-You-Need">Returns Maximization in Options</a>
+      year: 2024-now
+      description: Some generally useful results and potential strategies in my repository. I maximize returns per unit risk for some known trading schemes.
+    - title: <a href="https://vkhismatullin.github.io/projects/naive_poker_game/">Biased Beliefs in Poker</a>
+      year: 2045-now
+      description: Solved a novel simplification of Texas Hold'em that allows for interpretable qualities, like risk-averseness and predictability.
+    - title: <a href="https://github.com/VKhismatullin/PokerStats">Poker Tournaments Fair Value</a>
+      year: 2025
+      description: Implemented a ranking model to find profitable tournaments conditional on one's skill level.
+    - title: <a href="https://github.com/VKhismatullin/WineStats">Wine Pricing Stats</a>
+      year: 2024
+      description: "Beat the analysts accuracy by 65% using a simple linear regression and a lot of feature mining, including visuals, text and transcation history from several retail platforms.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Applied Models
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Volatility Trading
+        - Statistical Arbitrage
+        - Causality in Decision-making
+        - 
+    - title: Pure Math
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Chaos Theory
+        - Bayessian Game Theory

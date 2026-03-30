@@ -23,6 +23,18 @@
   },
   "work": [
     {
+      "name": "Handshake AI",
+      "position": "Domain Expert in Probability and Statistics",
+      "url": "https://ai.joinhandshake.com/",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "summary": "• Produced IMC/HMMT- level problems used to advance the top 5 state-of-the-art math reasoning models.\n• Designed and reviewed 300+ problems in statistics, measure theory, combinatorics and optimal control theory.",
+      "highlights": ["LLM Pipelines, Text Data Mining",
+                     "Data Stacping, Data Pipelines",              
+                     "Causality and Signal Mining"
+      ]
+    },
+    {
       "name": "Duke University, Fuqua School of Business",
       "position": "Research Assistant for Prof. Tong Guo",
       "url": "https://www.fuqua.duke.edu/",

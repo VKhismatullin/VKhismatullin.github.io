@@ -35,7 +35,8 @@ I have always been interested in strategic games—both in developing educated b
 
 My previous academic work included extensive deep learning, with a focus on time series analysis and Bayesian methods. I spent three years working on this intersection. One example is [Interpretable Time Series Generation Using SCVAE](https://github.com/VKhismatullin/TimeSeriesGen).
 
- 
+None of this research happens in a vacuum, though—I trust my own pipelines because I've built the engineering underneath them. I've shipped a fintech marketplace backend (FastAPI/Postgres, double-entry ledgers, concurrency-safe settlement, Stripe integration) and fine-tuned NVIDIA's GR00T foundation model for robot control, on top of lower-level ML systems work—autodiff engines, CUDA kernel scheduling, MPI-distributed training—from my Duke coursework. It's not the focus of what I do, but it's the reason the research holds up.
+
 <div class="row">
   <div class="col-sm-6 mt-3">
     {% include figure.liquid loading="eager" path="assets/img/publication_preview/ex_1.gif" title="Game theory beauty" class="img-fluid rounded z-depth-1" %}

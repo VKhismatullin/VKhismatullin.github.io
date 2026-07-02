@@ -28,11 +28,11 @@
       "url": "https://ai.joinhandshake.com/",
       "startDate": "2025-09-01",
       "endDate": "Present",
-      "summary": ["• Produced IMC/HMMT- level problems used to advance the top 5 state-of-the-art math reasoning models.", 
+      "summary": ["• Produced IMC/HMMT- level problems used to advance the top 5 state-of-the-art math reasoning models.",
           "• Designed and reviewed 300+ problems in statistics, measure theory, combinatorics and optimal control theory."
     ],
       "highlights": ["LLM Pipelines, Text Data Mining",
-                     "Data Stacping, Data Pipelines",              
+                     "Data Stacping, Data Pipelines",
                      "Causality and Signal Mining"
       ]
     },
@@ -46,7 +46,7 @@
           "• Developed autoregressive sentiment-driven models that predicted large movements in social media one week in advance with 82% accuracy. Used Granger causality tests to identify dependencies between topics and signal types"
     ],
       "highlights": ["LLM Pipelines, Text Data Mining",
-                     "Data Stacping, Data Pipelines",              
+                     "Data Stacping, Data Pipelines",
                      "Causality and Signal Mining"
       ]
     },
@@ -57,7 +57,7 @@
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "summary": ["•• Ranked 142 open-source time series datasets by impurity and compression complexity, training 5 PyTorch models in parallel on a cloud-based compute cluster. Maintained a multi-terabyte SQL database for industrial process data.",
-          "• Proposed an improvement to several classical augmentation algorithms by assuming dependencies within projections, leading to a 3% enhancement in classification accuracy for algorithms trained on transformed data.", 
+          "• Proposed an improvement to several classical augmentation algorithms by assuming dependencies within projections, leading to a 3% enhancement in classification accuracy for algorithms trained on transformed data.",
           "• Designed a novel neural autoencoder model combining disentanglement and interpretability techniques, achieving 12% better reconstruction than state-of-the-art baselines. Generated realistic samples of financial and human activity time series in PyTorch, cutting FID scores by 71% and improving interpretability by 98%."
     ],
       "highlights": ["Time Series Augmentation, Generation", "Change point detection"]
@@ -73,7 +73,7 @@
       "startDate": "2023-08-11",
       "endDate": "2025-05-11",
       "score": "10",
-      "courses": ["GPU Architecture, Database Systems", 
+      "courses": ["GPU Architecture, Database Systems",
                   "Econometrics, Theoretical Finance",
                   "Game Theory, Imperical Markets"]
     },
@@ -115,6 +115,18 @@
         "Optimal Pipeline Construction",
         "Insider Trading Regulations"
       ]
+    },
+    {
+      "name": "Engineering & Systems",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "CUDA / GPU Kernel Scheduling",
+        "MPI Distributed Training",
+        "Autodiff Systems from Scratch",
+        "FastAPI / Postgres Backends",
+        "Robotics Foundation Models (GR00T)"
+      ]
     }
   ],
   "projects": [
@@ -149,6 +161,20 @@
       "startDate": "2024-04-01",
       "endDate": "2024-06-01",
       "url": "https://github.com/VKhismatullin/WineStats"
+    },
+    {
+      "name": "ReqXchange",
+      "summary": "A fintech marketplace backend supporting concurrency-safe, idempotent settlement between buyers and sellers, built to hold up under real financial-integrity constraints rather than a class-project happy path.",
+      "highlights": ["FastAPI / Postgres", "Double-entry Ledgers", "Stripe Settlement", "AES-256-GCM Key Storage"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01"
+    },
+    {
+      "name": "Robo_job",
+      "summary": "Fine-tuned NVIDIA's GR00T foundation model for robot control, mapping to the Franka embodiment and building out a LeRobot v2 / Isaac Lab Mimic simulation pipeline for data generation.",
+      "highlights": ["GR00T Fine-tuning", "Isaac Lab Mimic", "LeRobot v2", "AWS GPU Serving"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01"
     }
   ],
   "interests": [

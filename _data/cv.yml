@@ -33,7 +33,7 @@
       year: Jan 2024 - May 2025
       description:
         - LLM Pipelines, Text Data Mining
-        - Data Stacping, Data Pipelines            
+        - Data Stacping, Data Pipelines
         - Causality and Signal Mining
     - title: Research Assistant
       institution: Lomonosov Moscow State University, Moscow, Russia
@@ -58,6 +58,15 @@
       year: 2024
       description: Beat the analysts accuracy by 65% using a simple linear regression and a lot of feature mining, including visuals, text and transcation history from several retail platforms.
 
+- title: Engineering Projects
+  type: time_table
+  contents:
+    - title: ReqXchange
+      year: 2025
+      description: A fintech marketplace backend with concurrency-safe, idempotent settlement, double-entry ledgers, encrypted key storage, and Stripe integration.
+    - title: Robo_job
+      year: 2025
+      description: Fine-tuned NVIDIA's GR00T foundation model for robot control, including a LeRobot v2 / Isaac Lab Mimic data pipeline.
 
 - title: Research Interests
   type: nested_list
@@ -71,3 +80,15 @@
       items:
         - Chaos Theory
         - Bayessian Game Theory
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Applied Math & Quant Research
+      items:
+        - Econometrics and Causation, Time Series, Bayesian Game Theory
+        - Option Pricing Theory, Stochastic Arbitrage
+    - title: Engineering & Systems
+      items:
+        - CUDA / GPU Kernel Scheduling, MPI Distributed Training
+        - FastAPI / Postgres Backends, Robotics Foundation Models (GR00T)

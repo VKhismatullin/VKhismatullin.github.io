@@ -11,3 +11,6 @@ assets/libs/
 node_modules/
 vendor
 .idea
+external.env
+alternative_website_contents
+.devcontainer/_scripts/
